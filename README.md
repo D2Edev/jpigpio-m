@@ -9,6 +9,6 @@ What's added:
 
 ## Pls, note
 
-* Your app shold have root privileges to work with Pigpio class (which uses native lib)
+* Your app should have root privileges to work with Pigpio class (which uses native lib)
 * Otherwise use PigpioSocket which communicates with [pigpiod](http://abyz.me.uk/rpi/pigpio/pigpiod.html)
 
